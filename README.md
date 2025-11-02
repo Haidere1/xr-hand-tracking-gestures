@@ -18,7 +18,6 @@ and ready to use.
 
 ## Requirements
 
-- Unreal Engine 5.x (or compatible version)  
 - Headset with OpenXR runtime  
 - Hand tracking support enabled in your runtime  
 
