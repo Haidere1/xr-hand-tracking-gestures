@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MetaverseXRSystem.cpp.obj": [
+			"BoneVisualizer.gen.cpp.obj",
+			"HanTracking.gen.cpp.obj",
+			"MetaverseXRSystem.init.gen.cpp.obj",
+			"BoneVisualizer.cpp.obj",
+			"HanTracking.cpp.obj",
+			"MetaverseXRSystem.cpp.obj"
+		]
+	}
+}

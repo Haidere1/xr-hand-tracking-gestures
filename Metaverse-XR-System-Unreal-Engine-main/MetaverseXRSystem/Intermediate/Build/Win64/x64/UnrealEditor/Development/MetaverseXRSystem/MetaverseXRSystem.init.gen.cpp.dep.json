@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ebaad\\azure\\paf_metaverse_git\\pafmetaverse\\plugins\\metaversexrsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\metaversexrsystem\\uht\\metaversexrsystem.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ebaad\\azure\\paf_metaverse_git\\pafmetaverse\\intermediate\\build\\win64\\x64\\pafmetaverseeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ebaad\\azure\\paf_metaverse_git\\pafmetaverse\\plugins\\metaversexrsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\metaversexrsystem\\definitions.metaversexrsystem.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
